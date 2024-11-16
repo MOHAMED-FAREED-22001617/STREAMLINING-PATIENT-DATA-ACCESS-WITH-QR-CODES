@@ -1,5 +1,5 @@
 # STREAMLINING-PATIENT-DATA-ACCESS-WITH-QR-CODES
-## Absteact
+## Abstract
 In medical emergencies, timely access to a patient's critical information can be the difference between life and death. This project aims to develop an innovative mobile application that collects and securely stores essential medical data from patients. The application generates a QR code containing this information, which the patient can then place on the back of their mobile device. In the event of an emergency, such as a fall in a public space, a bystander or first responder can quickly scan the QR code using any standard QR reader. This scan provides immediate access to the patient's vital details, such as medical history, allergies, emergency contacts, and any other relevant health information. By enabling rapid and informed medical intervention, this application has the potential to significantly improve emergency response outcomes and save lives.
 ### code
 ```py
